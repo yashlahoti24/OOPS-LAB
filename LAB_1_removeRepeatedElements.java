@@ -24,7 +24,7 @@
 //    }
 //}
 //
-//public class LAB_1 {
+//public class LAB_1_removeRepeatedElements {
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
 //
@@ -80,7 +80,7 @@ class ArrayProcessor {
     }
 }
 
-public class LAB_1 {
+public class LAB_1_removeRepeatedElements {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
