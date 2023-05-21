@@ -1,3 +1,4 @@
+// Question 3.1
 //import java.util.*;
 //
 //class StringReverser {
@@ -27,6 +28,8 @@
 //    }
 //}
 
+
+//Question 3.2
 import java.util.*;
 
 class PalindromeChecker {
