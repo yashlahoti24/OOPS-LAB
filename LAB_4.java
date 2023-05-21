@@ -1,3 +1,4 @@
+// Car, train, helicopter
 import java.util.Scanner;
 
 // Abstract base class for vehicles
