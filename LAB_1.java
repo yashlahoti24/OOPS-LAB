@@ -1,3 +1,4 @@
+// Question 1.1
 //import java.util.*;
 //
 //class ArrayProcessor {
@@ -46,7 +47,7 @@
 //    }
 //}
 
-
+//Question 1.2
 import java.util.*;
 
 class ArrayProcessor {
