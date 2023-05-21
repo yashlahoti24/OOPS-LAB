@@ -1,3 +1,4 @@
+// Question 2.1
 //import java.util.*;
 //
 //class StringProcessor {
@@ -40,6 +41,8 @@
 //    }
 //}
 
+
+//Question 2.2
 import java.util.*;
 
 class StringChecker {
